@@ -1,10 +1,9 @@
-# Efficient-Detection-Of-Dementia-through-Hyper-parameters-optimization-Techniques-Of-Machine-Learning
-Skills: Machine Learning , Python (Programming Language) , Deep Learning ·,Artificial Neural Networks
+Dementia detection using parameter optimization for multimodal datasets
 
-Dementia affects memory and thinking capability of a person so much that they interfere with your daily activities. It is a condition, not a disease, and its symptoms are common to many brain disorders. It can get worse over time.
-Early detection and correct diagnosis can lead to disease-retarding therapies which can slow disease progression and reduce patient and caregiver stress and morbidities.
-
- Various Machine Learning algorithms are used for detecting dementia and tuned their hyperparamters as well are comared with their ensemble combinations. A user interfaceis created for the same.
+=>Led data preprocessing and implemented diverse machine learning algorithms such as Logistic Regression, Naïve Bayes, KNN, and more for analysis.
+=>Evaluated algorithm performance, identifying Naïve Bayes with 95.54% accuracy as the optimal model.
+=>Conducted hyperparameter tuning and developed an ensemble model using stacking techniques to enhance accuracy.
+=>Deployed the stack model for dementia detection, utilizing Python libraries like Flask, Pickle, and NumPy to create a user-friendly interface.
 
 
 non demented
